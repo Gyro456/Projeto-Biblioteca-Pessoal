@@ -47,8 +47,3 @@ Este projeto é um sistema de biblioteca pessoal. O sistema permite a inserção
 1. Certifique-se de ter o Python (ver 3.11) instalado em sua máquina.
 2. Execute o seguinte comando:
    python main.py
-
-# Dificuldades
-
-- Na parte buscar livro, ele não estava conseguindo buscar o livro direito, somente se colocasse o nome exato. Fazer com que a busca fosse feita com apenas algumas letras do nome ou autor do livro
-- A maior dificuldade foi fazer o tarefas, nossa primeira versão dele tinha muitos erros de lógica, onde nós seguia uma lógica para fazer uma parte do código e quando íamos para outra nós já trocavamos a logica, que foi oque aconteceu na parte de buscar os livros.
