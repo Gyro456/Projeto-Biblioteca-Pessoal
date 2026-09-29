@@ -1,7 +1,7 @@
 # DeskBook
 
 # Biblioteca pessoal
-Criado por Matheus Henrique Barros da Silva e Dhavi Francisco do vale Ferreira
+Criado por Matheus Henrique Barros da Costa e Dhavi Francisco do vale Ferreira
 
 # Descrição
 
